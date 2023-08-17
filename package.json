@@ -1,0 +1,27 @@
+{
+  "name": "accessibility",
+  "version": "1.0.0",
+  "description": "Accessibility library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/encoderuz/Accessibility.git"
+  },
+  "keywords": [
+    "accessibility",
+    "encoderuz",
+    "nafisjs"
+  ],
+  "author": "Abdukodir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/encoderuz/Accessibility/issues"
+  },
+  "homepage": "https://github.com/encoderuz/Accessibility#readme",
+  "dependencies": {
+    "yarn": "^1.22.19"
+  }
+}
